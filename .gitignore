@@ -1,0 +1,26 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+backend/venv/
+
+# Node.js-specific ignores
+frontend/node_modules/
+frontend/dist/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# IDE-specific ignores
+.vscode/
+.idea/
+
+# OS-specific ignores
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Environment variables
+.env
