@@ -18,7 +18,6 @@ Make sure you have the following installed:
 
 ### Cloning the Repository
 git clone https://github.com/Srivastava-Team1/canes-app.git
-cd chatbot-app
 
 
 ### Backend Setup (Flask)
