@@ -13,7 +13,7 @@ This project is a simple chatbot application built with a Vue.js frontend and a 
 Make sure you have the following installed:
 
 -   Node.js (v18+) and npm
--   Python 3.12+
+-   Python 3+
 -   pip (Python package installer)
 
 ### Cloning the Repository
@@ -30,7 +30,7 @@ git clone https://github.com/Srivastava-Team1/canes-app.git
 2.  Create a virtual environment:
 
     ```
-    python3.12 -m venv venv
+    python3.11 -m venv venv
     ```
 
 3.  Activate the virtual environment:
