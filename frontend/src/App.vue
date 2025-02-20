@@ -1,16 +1,13 @@
+<!-- App.vue -->
 <template>
   <div id="app">
-    <HelloWorld />
+    <LoginPage />
   </div>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue';
-
-export default {
-  name: 'App',
-  components: {
-    HelloWorld,
-  },
-};
+<script setup lang="ts">
+import LoginPage from './components/LoginPage.vue'
 </script>
+
+<style>
+</style>
